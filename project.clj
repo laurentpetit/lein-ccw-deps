@@ -1,4 +1,4 @@
-(defproject ccw/lein-ccw-deps "0.1.0"
+(defproject ccw/lein-ccw-deps "0.1.1-SNAPSHOT"
   :description "Plugin providing a ccw-deps task for installing project dependencies
                 in a lib directory. What it does precisely is: generate the project's uberjar,
                 then unzip the uberjar in ${project-root}/lib directory, and removes from 
